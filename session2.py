@@ -5,4 +5,5 @@ Created on Wed Oct  6 10:31:02 2021
 
 @author: zuza
 """
-
+def func(a, b):
+    return a+b
